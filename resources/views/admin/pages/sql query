@@ -1,0 +1,1 @@
+INSERT INTO books (id , bookName, description, filepath, imagepath,  created_at, updated_at) VALUES (NULL, 'Gulliverning sayohatlari', 'Tomas', 'desc successs', '/storage/sa', '/storage/images',CURRENT_TIME(),  CURRENT_TIME())
